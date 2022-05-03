@@ -4,7 +4,7 @@ Graduate Student PhD in Distributed architecture, blockchain and cloud computing
 
 Pursuing PhD Computer Science, University of Saskatchewan, Canada
 
-![Just for fun ] (/docs/assets/img/cafelore.jpg)
+![Just for fun ](/docs/assets/img/cafelore.jpg)
 
 Here is the link to see the image on github repo (https://tjain2790.github.io/tanvijain.github.io/docs/assets/img/cafelore.jpg)
 
