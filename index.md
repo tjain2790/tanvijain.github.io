@@ -6,7 +6,7 @@ Pursuing PhD Computer Science, University of Saskatchewan, Canada
 
 ![Just for fun ] (/docs/assets/img/cafelore.jpg)
 
-(https://tjain2790.github.io/tanvijain.github.io/docs/assets/img/cafelore.jpg)
+Here is the link to see the image on github repo (https://tjain2790.github.io/tanvijain.github.io/docs/assets/img/cafelore.jpg)
 
 You can use the [editor on GitHub](https://github.com/tjain2790/tanvijain.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
